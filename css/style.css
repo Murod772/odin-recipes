@@ -1,0 +1,27 @@
+
+body{
+    background-color: rgba(115, 20, 192, 0.555);
+}
+
+.main-header,
+.main-image {
+    text-align: center;
+    
+}
+
+.image-common {
+    width: 350px;
+}
+
+
+
+
+
+
+.common {
+    font-style: italic;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
